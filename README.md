@@ -4,28 +4,21 @@ Este projeto demonstra como automatizar o cadastro de produtos em um sistema web
 
 ## Funcionalidades
 
-Login automático: 
-🔑 O script acessa uma URL de login, preenche os campos de e-mail e senha e faz o login.
+🔑 Login automático: O script acessa uma URL de login, preenche os campos de e-mail e senha e faz o login.
 
-Leitura de dados: 
-📄 Utiliza a biblioteca Pandas para ler e processar os dados de produtos de um arquivo produtos.csv.
+📄 Leitura de dados: Utiliza a biblioteca Pandas para ler e processar os dados de produtos de um arquivo produtos.csv.
 
-Preenchimento de formulário: 
-✍️ Navega pelos campos do formulário de cadastro de produtos e preenche cada um com os dados correspondentes do arquivo CSV.
+✍️ Preenchimento de formulário: Navega pelos campos do formulário de cadastro de produtos e preenche cada um com os dados correspondentes do arquivo CSV.
 
-Cadastramento em lote: 
-🚀 Itera sobre todas as linhas do arquivo CSV para cadastrar múltiplos produtos de forma sequencial.
+🚀 Cadastramento em lote: Itera sobre todas as linhas do arquivo CSV para cadastrar múltiplos produtos de forma sequencial.
 
 ## Estrutura do projeto
 
-gabarito.py: 
-🐍 O script principal que contém o código de automação.
+🐍 gabarito.py: O script principal que contém o código de automação.
 
-produtos.csv: 
-📊 A planilha com os dados dos produtos a serem cadastrados.
+📊 produtos.csv: A planilha com os dados dos produtos a serem cadastrados.
 
-pegar_posicao.py: 
-📍 Um script auxiliar para identificar as coordenadas de cliques na tela (útil para adaptar o código a diferentes resoluções de tela).
+📍 pegar_posicao.py: Um script auxiliar para identificar as coordenadas de cliques na tela (útil para adaptar o código a diferentes resoluções de tela).
 
 ## Requisitos
 
