@@ -24,13 +24,13 @@ Este projeto demonstra como automatizar o cadastro de produtos em um sistema web
 
 Certifique-se de ter as seguintes bibliotecas instaladas:
 
-pyautogui
+▪️ pyautogui
 
-pandas
+▪️ pandas
 
 Você pode instalá-las usando o pip:
 
-pip install pyautogui pandas
+▪️ pip install pyautogui pandas
 
 ### Como usar
 
@@ -44,7 +44,7 @@ pip install pyautogui pandas
 
 ➡️ Execute o script gabarito.py para iniciar a automação.
 
-python gabarito.py
+▪️ python gabarito.py
 
 ### Observação
 
